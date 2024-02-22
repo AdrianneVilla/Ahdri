@@ -1,0 +1,15 @@
+C:\Users\villa.286986\source\repos\ComputeAverageApp\ComputeAverageApp\bin\Debug\net7.0\ComputeAverageApp.exe
+C:\Users\villa.286986\source\repos\ComputeAverageApp\ComputeAverageApp\bin\Debug\net7.0\ComputeAverageApp.deps.json
+C:\Users\villa.286986\source\repos\ComputeAverageApp\ComputeAverageApp\bin\Debug\net7.0\ComputeAverageApp.runtimeconfig.json
+C:\Users\villa.286986\source\repos\ComputeAverageApp\ComputeAverageApp\bin\Debug\net7.0\ComputeAverageApp.dll
+C:\Users\villa.286986\source\repos\ComputeAverageApp\ComputeAverageApp\bin\Debug\net7.0\ComputeAverageApp.pdb
+C:\Users\villa.286986\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\net7.0\ComputeAverageApp.csproj.AssemblyReference.cache
+C:\Users\villa.286986\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\net7.0\ComputeAverageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\villa.286986\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\net7.0\ComputeAverageApp.AssemblyInfoInputs.cache
+C:\Users\villa.286986\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\net7.0\ComputeAverageApp.AssemblyInfo.cs
+C:\Users\villa.286986\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\net7.0\ComputeAverageApp.csproj.CoreCompileInputs.cache
+C:\Users\villa.286986\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\net7.0\ComputeAverageApp.dll
+C:\Users\villa.286986\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\net7.0\refint\ComputeAverageApp.dll
+C:\Users\villa.286986\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\net7.0\ComputeAverageApp.pdb
+C:\Users\villa.286986\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\net7.0\ComputeAverageApp.genruntimeconfig.cache
+C:\Users\villa.286986\source\repos\ComputeAverageApp\ComputeAverageApp\obj\Debug\net7.0\ref\ComputeAverageApp.dll
