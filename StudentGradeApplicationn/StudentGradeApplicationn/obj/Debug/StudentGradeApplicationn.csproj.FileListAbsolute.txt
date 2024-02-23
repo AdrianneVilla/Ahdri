@@ -1,0 +1,11 @@
+C:\Users\villa.286986\source\repos\StudentGradeApplicationn\StudentGradeApplicationn\bin\Debug\StudentGradeApplicationn.exe.config
+C:\Users\villa.286986\source\repos\StudentGradeApplicationn\StudentGradeApplicationn\bin\Debug\StudentGradeApplicationn.exe
+C:\Users\villa.286986\source\repos\StudentGradeApplicationn\StudentGradeApplicationn\bin\Debug\StudentGradeApplicationn.pdb
+C:\Users\villa.286986\source\repos\StudentGradeApplicationn\StudentGradeApplicationn\obj\Debug\StudentGradeApplicationn.csproj.AssemblyReference.cache
+C:\Users\villa.286986\source\repos\StudentGradeApplicationn\StudentGradeApplicationn\obj\Debug\StudentGradeApplicationn.csproj.SuggestedBindingRedirects.cache
+C:\Users\villa.286986\source\repos\StudentGradeApplicationn\StudentGradeApplicationn\obj\Debug\StudentGradeApplicationn.Properties.Resources.resources
+C:\Users\villa.286986\source\repos\StudentGradeApplicationn\StudentGradeApplicationn\obj\Debug\StudentGradeApplicationn.csproj.GenerateResource.cache
+C:\Users\villa.286986\source\repos\StudentGradeApplicationn\StudentGradeApplicationn\obj\Debug\StudentGradeApplicationn.csproj.CoreCompileInputs.cache
+C:\Users\villa.286986\source\repos\StudentGradeApplicationn\StudentGradeApplicationn\obj\Debug\StudentGradeApplicationn.exe
+C:\Users\villa.286986\source\repos\StudentGradeApplicationn\StudentGradeApplicationn\obj\Debug\StudentGradeApplicationn.pdb
+C:\Users\villa.286986\source\repos\StudentGradeApplicationn\StudentGradeApplicationn\obj\Debug\StudentGradeApplicationn.frmStudentGradeProgram.resources
