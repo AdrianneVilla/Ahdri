@@ -1,0 +1,10 @@
+Development of a Portable Electronic Device for the Detection
+and Indication of Fireworks and Firecrackers
+for Security Personnel
+
+The utilization of fireworks and firecrackers during celebratory events is a deeply inherited practice within Philippine culture. However, the absence of strict regulatory measures has resulted in an elevated risk of accidents stemming from inadequate handling and suboptimal storage conditions of these pyrotechnic devices. Ensuring vigilant monitoring is imperative to mitigate potential risks posed to both human life and property. Although actual storage monitoring apparatuses are available, researchers developed prototypes that integrate sensors specifically calibrated to surveil the optimal storage conditions for fireworks. While initially understated, monitoring climatic conditions is pivotal due to the potential for abrupt temperature surges capable of inadvertently igniting fireworks, precipitating catastrophic consequences. Furthermore, heightened humidity levels pose a concern as they incline to modify the chemical composition of the gunpowder housed within fireworks, potentially leading to unintended alterations in performance and subsequent accidents upon consumer utilization. Consequently, meticulous monitoring of the surrounding environment by our device is indispensable, supplemented by the implementation of diverse alarm systems to ensure redundancy in safety mechanisms.
+
+
+
+References: Africa, A. D. M., Alberto, S. C. T., & Tan, T. E. Y. (2020b). Development of a portable electronic device for the detection and indication of fireworks and firecrackers for security personnel. Zenodo (CERN European Organization for Nuclear Research). https://doi.org/10.11591/ijeecs.v19.i3.pp
+
